@@ -4,21 +4,7 @@
   
 
 # **<div align="center">I'm Ergashev Farhod</div>**  
-  
 
--  📚  I took courses at Stepik: [Python for Beginners](https://stepik.org/course/58852/syllabus), [Python for Advanced](https://stepik.org/course/68343/promo), [AI Start](https://stepik.org/course/125587/syllabus), [Git](https://stepik.org/course/228190/promo)  
-  
-
-- 🔭 I’m learning [DL](https://stepik.org/org/dlschool) on Stepik  
-  
-
-- 🏫 A student at TUIT: for now  
-  
-
-- ⚡ I'm planning to create a startup.  
-  
-
-<br/>  
 <div align="center">
 <a href="https://dev.to/ef7ai" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
@@ -36,6 +22,20 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
+
+-  📚  I took courses at Stepik: [Python for Beginners](https://stepik.org/course/58852/syllabus), [Python for Advanced](https://stepik.org/course/68343/promo), [AI Start](https://stepik.org/course/125587/syllabus), [Git](https://stepik.org/course/228190/promo)  
+  
+
+- 🔭 I’m learning [DL](https://stepik.org/org/dlschool) on Stepik  
+  
+
+- 🏫 A student at TUIT: for now  
+  
+
+- ⚡ I'm planning to create a startup.  
+  
+
+<br/>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
