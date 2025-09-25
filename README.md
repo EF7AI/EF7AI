@@ -87,7 +87,7 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+делаем то что должен, а не что нам нужно
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
