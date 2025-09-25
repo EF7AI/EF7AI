@@ -19,7 +19,23 @@
   
 
 <br/>  
-
+<div align="center">
+<a href="https://dev.to/ef7ai" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/sasuke1478" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/EF7AI" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://x.com/ErgashevFarhod_" target="_blank">
+<img src=https://img.shields.io/badge/-%2308090A.svg?&style=for-the-badge&logo=x&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/ergashev-farhod-005a49386/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -49,26 +65,6 @@
 
 <br/>  
 
-
-
-<div align="center">
-<a href="https://dev.to/ef7ai" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/sasuke1478" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/EF7AI" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://x.com/ErgashevFarhod_" target="_blank">
-<img src=https://img.shields.io/badge/-%2308090A.svg?&style=for-the-badge&logo=x&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/ergashev-farhod-005a49386/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
 
 <br/>  
 
