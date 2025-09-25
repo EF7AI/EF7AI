@@ -15,6 +15,9 @@
 <a href="https://github.com/EF7AI" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+  <a href="https://t.me/EF7_7" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
 <a href="https://x.com/ErgashevFarhod_" target="_blank">
 <img src=https://img.shields.io/badge/-%2308090A.svg?&style=for-the-badge&logo=x&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
