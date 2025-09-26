@@ -19,7 +19,7 @@
 <img src=https://img.shields.io/badge/-%2308090A.svg?&style=for-the-badge&logo=x&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/ergashev-farhod-005a49386/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 6px;" />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
 
@@ -40,7 +40,7 @@
 <br/>  
 
 ## I do <div align="left">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" align="left" style="width: 5%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" align="left" style="width: 6%" />
 </div> with 
 
 <div align="left">  
