@@ -39,7 +39,7 @@
 
 <br/>  
 
-## My Skill Set  
+## Top skils
 <table><tr><td valign="top" width="33%">
 
 ### Backend  
