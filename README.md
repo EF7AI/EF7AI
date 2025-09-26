@@ -89,7 +89,7 @@ Github Stats
 <br/>  
 
 
-## Recent Blog Posts  
+## a little quote  
 <!-- BLOG-POST-LIST:START -->  
 делаем то что должен, а не что нам нужно
 <!-- BLOG-POST-LIST:END -->  
