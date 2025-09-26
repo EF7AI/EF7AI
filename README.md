@@ -39,8 +39,7 @@
 
 <br/>  
 
-## I do
-<div align="left">
+## I do <div align="left">
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" align="left" style="width: 10%" />
 </div> with 
 
