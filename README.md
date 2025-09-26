@@ -31,7 +31,7 @@
 - 🔭 I’m learning [DL](https://stepik.org/org/dlschool) on Stepik  
   
 
-- 🏫 A student at TUIT: for now  
+- 🏫 A student at [TUIT](https://tuit.uz/): for now  
   
 
 - ⚡ I'm planning to create a startup.  
