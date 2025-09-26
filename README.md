@@ -64,10 +64,12 @@
 ###
 
 <br/>  
+###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=EF7AI&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph"/>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ef7ai&theme=dark" alt="GitHub Streak"/>
+</p>
+
 
 
 <br/>  
