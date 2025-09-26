@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" align="center" style="width: 60%" />
 </div>  
-
 # <h1 align="center">I'm Ergashev Farhod</h1>
 <div align="center">
 <a href="https://dev.to/ef7ai" target="_blank">
