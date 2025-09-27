@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" align="center" style="width: 100%" />
+<img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" align="center" style="width: 100%" />
 </div>  
 <h1 align="center">I'm Ergashev Farhod</h1>
 <div align="center">
