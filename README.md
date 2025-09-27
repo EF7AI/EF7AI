@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" align="center" style="width: 100%" />
+<img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg5Njc0MjEsIm5iZiI6MTc1ODk2NzEyMSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTI3VDA5NTg0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVlNjk3MWUxN2M2OTdjOThjZDMwZjBlZThiNGE3ZjY2NTA3YWE4NzNiNmU4NjJlYzI2ODc2NmYzNjNiZTZjYjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.pG8qJAmKFjfyDhFRrffZaoXBQDahE_QxmBzhoERSxPw" align="center" style="width: 100%" />
 </div>  
 <h1 align="center">I'm Ergashev Farhod</h1>
 <div align="center">
