@@ -1,5 +1,5 @@
 <div align="center">
-<img src="githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" align="center" style="width: 30%" />
+<img src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" align="center" style="width: 100%" />
 </div>  
 <h1 align="center">I'm Ergashev Farhod</h1>
 <div align="center">
@@ -23,7 +23,7 @@
 </a>  
 </div>  
 
-### 💻 About me and yourself
+### 💻 About me
 
 -  📚  I took courses at Stepik: [Python for Beginners](https://stepik.org/course/58852/syllabus), [Python for Advanced](https://stepik.org/course/68343/promo), [AI Start](https://stepik.org/course/125587/syllabus), [Git](https://stepik.org/course/228190/promo)  
   
