@@ -23,7 +23,8 @@
 </a>  
 </div>  
 
-### 💻 About mьe
+### 💻 About m
+e
 
 -  📚  I took courses at Stepik: [Python for Beginners](https://stepik.org/course/58852/syllabus), [Python for Advanced](https://stepik.org/course/68343/promo), [AI Start](https://stepik.org/course/125587/syllabus), [Git](https://stepik.org/course/228190/promo)  
   
